@@ -1,0 +1,10 @@
+os
+re
+streamlit
+langchain
+langchain-community
+pypdf2
+sentence-transformers
+chromadb
+langchain-huggingface
+python-dotenv
